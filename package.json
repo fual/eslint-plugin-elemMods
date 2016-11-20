@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-elem-mods",
-  "version": "0.1.0",
+  "name": "eslint-plugin-elemMods",
+  "version": "0.2.0",
   "description": "bem bemxjst elemMods",
   "keywords": [
     "eslint",
